@@ -13,11 +13,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvianEscobio&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning:
-- Java (building apps like GPA calculator, custom calculators, and games)
-- Python (scripts & data utilities)
-- C++ (algorithms and OOP practice)
+- Java (building apps like GPA calculator)
+- Python 
+- C++
 - HTML, CSS and JavaScript
-- IT Support skills 
+- IT Support skills (currently working on CompTIA A+ Certificate)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
