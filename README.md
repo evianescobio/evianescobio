@@ -10,7 +10,7 @@
 ## 📊 My GitHub Statistics
 ![Evian's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvianEscobio&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvianEscobio&theme=tokyonight" alt="mystreak"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvianEscobio&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evianescobio&theme=tokyonight&layout=compact&langs_count=4)
 
 🌱 I’m currently learning:
 - Java (building apps like GPA calculator)
